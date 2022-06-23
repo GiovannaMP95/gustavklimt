@@ -1,0 +1,91 @@
+body {
+    background-color: rgba(248, 239, 166, 0.91);
+    background-image: url(img/fundo.jpg);
+    background-position: center top;
+    background-size: 100% auto; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 1500px;
+
+}
+
+
+#title, .subtitle, .post_title  {
+    color:rgb(3, 3, 3);
+;
+
+}
+
+#title {
+    color:rgb(253, 191, 20);
+background-color: rgba(148, 97, 8, 0.705);
+    font-size: 90px;
+    font-style: normal;
+    text-transform: uppercase;
+    padding-left: 27%;
+}
+
+.link {
+    text-decoration:overline;
+}
+
+.subtitle {
+color: rgb(237, 203, 81);
+font-size: 45px;
+margin-left: 60px;
+
+}
+
+.post_title {
+    color: rgba(251, 232, 89, 0.825);
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 40px;
+    
+}
+
+.post {
+    background-color: rgba(122, 81, 32, 0.949);
+    padding: 15px;
+    border: 5px solid rgba(147, 116, 33, 0.508); 
+    border-radius: 10px;
+    margin: 50px;
+    margin-bottom: 15px
+    margin-top: 20px;
+    
+}
+
+.post_content {
+margin-left: 45px;
+
+}
+
+.imagem {
+    margin-left: 35%;
+
+}
+
+.ajuste-sub {
+    margin-left: 35%;
+}
+
+.contacts_list {
+    list-style-type: square;
+    background-color: rgb(128, 90, 15);
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-right: 47px;
+    border: 5px solid rgba(96, 60, 16, 0.949);
+    border-radius: 10px;
+}
+
+.contacts_list li a {
+    color: rgb(7, 7, 7);
+    text-decoration:underline;
+  
+}
+
+.contacts_list li {
+    margin-left: 27px;
+}
